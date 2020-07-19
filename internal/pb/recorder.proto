@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = ".;pb";
+
+message Word {
+  string word = 1;
+  string formatted = 2;
+  uint32 start_ms = 3;
+  uint32 end_ms = 4;
+}
+
+message Result {
+  repeated Word words = 1;
+  fixed32 size = 2;
+}

@@ -1,0 +1,1 @@
+Based on https://github.com/bgentry/mp4_stream with some updates for error handling and Go 1.0 compatibility
