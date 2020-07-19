@@ -33,9 +33,9 @@ Output:
 
 Download the binary for your platform:
 
-* [macOS 64-bit]()
-* [Linux 64-bit]()
-* [Windows 64-bit]()
+* [macOS 64-bit](https://github.com/maxhawkins/grec/releases/download/v1.0.0/grec-macos-amd64.tar.gz)
+* [Linux 64-bit](https://github.com/maxhawkins/grec/releases/download/v1.0.0/grec-linux-amd64.tar.gz)
+* [Windows 64-bit](https://github.com/maxhawkins/grec/releases/download/v1.0.0/grec-windows-amd64.zip)
 
 And run in the command line:
 
